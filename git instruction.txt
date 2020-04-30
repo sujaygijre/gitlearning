@@ -9,3 +9,7 @@ step 4: git rm --cached <filename>
 step 5: git branch <filename>
 
 step 6: git checkout <the branch name>
+
+step 7: git remote add origin <link>
+
+step 8: git push -u origin master
